@@ -18,3 +18,7 @@ Exemplo: git add . (adiciona todos os arquivos)
 ### Git Commit
 O Git commit é o comando responsável por confirmar as modificações adicionadas. <br>
 Exemplo: git commit -m"_MENSAGEM_COMMIT_"<br>
+
+### Git Push
+O Git push é o comando responsável por publicar as modificações confirmadas. <br>
+Exemplo: git push origin _NOME_BRANCH_ 
