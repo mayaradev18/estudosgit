@@ -36,6 +36,11 @@ Exemplo: git branch (lista as branchs criadas e indica em qual branch o usuário
 
 O Git checkout é o comando responsável por criar uma nova branch e por alternar entre as branchs. <br>
 
-Exemplo: git checkout -b (cria e e alterna para a branch criada)<br>
+Exemplo: git checkout -b _NOME_BRANCH_(cria e e alterna para a branch criada)<br>
 Exemplo: git checkout _NOME_BRANCH_ (alterna entre as branchs)<br>
 
+#### Git checkout
+
+Este comando é responsável por desfazer mudanças (não adicionadas) no arquivo. <br>
+Exemplo: git checkout _NOME_ARQUIVO (desfaz as mudanças no arquivo selecionado) <br>
+Exemplo: git checkout . (desfaz as mudanças realizadas emt todos os arquivos)
