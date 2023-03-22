@@ -43,4 +43,4 @@ Exemplo: git checkout _NOME_BRANCH_ (alterna entre as branchs)<br>
 
 Este comando é responsável por desfazer mudanças (não adicionadas) no arquivo. <br>
 Exemplo: git checkout _NOME_ARQUIVO (desfaz as mudanças no arquivo selecionado) <br>
-Exemplo: git checkout . (desfaz as mudanças realizadas emt todos os arquivos)
+Exemplo: git checkout . (desfaz as mudanças realizadas em todos os arquivos)
